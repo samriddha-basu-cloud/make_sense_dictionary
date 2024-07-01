@@ -1,0 +1,7 @@
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/app_logo.png"
+  adaptive_icon_background: "#FFFFFF" 
+  adaptive_icon_foreground: "assets/icons/app_logo.png"
+  adaptive_icon_padding: true # This adds padding to ensure the icon isn't clipped
